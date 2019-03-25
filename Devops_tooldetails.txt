@@ -1,0 +1,16 @@
+Tool Details
+	1. Jenkins 2.76
+	   URL: http://10.10.1.59:8080
+	   Credential: kovair/kovair
+	2. Jira 7.4.1
+	   URL: 
+	   Credential:
+	3. Sonarqube 4.5.6
+	   URL: http://10.10.1.150:9000/
+	   Credential:admin/
+	4. Github 
+	   URL: 
+	   Credential:
+	5. Service Now
+	   URL: https://dev43270.service-now.com/
+	   Credential:admin/0Kovair0!@#
