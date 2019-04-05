@@ -1,0 +1,1 @@
+Get-WmiObject -Class win32_logicalDisk -ComputerName 10.10.1.144, 10.10.1.151, 10.10.1.150, 10.10.1.141, 10.10.1.42, 10.10.1.132, 10.10.1.42, 10.10.1.133, 10.10.1.73, 10.10.1.57, 10.10.1.59 | Select-Object pscomputername, deviceid, freespace, size | Out-File -FilePath c:\x.txt
